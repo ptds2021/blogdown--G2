@@ -4,12 +4,6 @@ title: HEC Timetable Website
 theme: hugo-lithium
 googleAnalytics: ''
 disqusShortname: ''
-ignoreFiles:
-  - \.Rmd$
-  - \.Rmarkdown$
-  - _cache$
-  - \.knit\.md$
-  - \.utf8\.md$
 permalinks:
   post: /:year/:month/:day/:slug/
 menu:
