@@ -1,4 +1,4 @@
-baseurl: /
+baseurl: 'https://blogdown-g2.netlify.app/'
 languageCode: en-us
 title: A Hugo website
 theme: hugo-lithium
