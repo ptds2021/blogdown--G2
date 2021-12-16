@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on HEC Timetable Website</title>
+    <link>https://blogdown-g2.netlify.app/categories/r/</link>
+    <description>Recent content in R on HEC Timetable Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Dec 2021 21:13:14 -0500</lastBuildDate><atom:link href="https://blogdown-g2.netlify.app/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding the app</title>
+      <link>https://blogdown-g2.netlify.app/2021/12/15/understanding-the-app/</link>
+      <pubDate>Wed, 15 Dec 2021 21:13:14 -0500</pubDate>
+      
+      <guid>https://blogdown-g2.netlify.app/2021/12/15/understanding-the-app/</guid>
+      <description>Semesters’ choiceThere are three tabs, for the three semesters of classes of the Master.
+You can navigate across them by simply clicking on it at the top of the page.
+Initial timetable suggestionTo display an initial timetable, click on “Suggest” on the sidebar panel.
+You have the choice to either view, by moving across tabs in the main panel:
+two visual representations of the selected classes (half-semester classes):</description>
+    </item>
+    
+    <item>
+      <title>Using runDemo on RStudio</title>
+      <link>https://blogdown-g2.netlify.app/2021/12/15/using-rundemo-on-rstudio/</link>
+      <pubDate>Wed, 15 Dec 2021 21:13:14 -0500</pubDate>
+      
+      <guid>https://blogdown-g2.netlify.app/2021/12/15/using-rundemo-on-rstudio/</guid>
+      <description>Installing the packageThe package required is on GitHub, run the following code in your R console to load it.
+devtools::install_github(&amp;quot;ptds2021/project--G2&amp;quot;)library(&amp;quot;hectimetables&amp;quot;)Opening the app (in RStudio)To open the app using R, simply run this command:
+hectimetables::runDemo()</description>
+    </item>
+    
+    <item>
+      <title>Using the shinyApp online</title>
+      <link>https://blogdown-g2.netlify.app/2021/12/15/using-the-shinyapp-online/</link>
+      <pubDate>Wed, 15 Dec 2021 21:13:14 -0500</pubDate>
+      
+      <guid>https://blogdown-g2.netlify.app/2021/12/15/using-the-shinyapp-online/</guid>
+      <description>If you do not want to run hectimetables::runDemo() in R, but rather want to find the suitable timetable online, you can simply access it with this link.
+Here a preview is displayed, but it is much easier using the link above:</description>
+    </item>
+    
+    <item>
+      <title>Why we like it</title>
+      <link>https://blogdown-g2.netlify.app/2021/12/15/why-we-like-it/</link>
+      <pubDate>Wed, 15 Dec 2021 21:13:14 -0500</pubDate>
+      
+      <guid>https://blogdown-g2.netlify.app/2021/12/15/why-we-like-it/</guid>
+      <description>As former BA students we struggled every semester to create a suitable timetable which would satisfy all constraints and preferences. Here, as part of a Programming class, we coded a possible solution to our problem with a ShinyApp. We made it available so other students could benefit from it.</description>
+    </item>
+    
+  </channel>
+</rss>
